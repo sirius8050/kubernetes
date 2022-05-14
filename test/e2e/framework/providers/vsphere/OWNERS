@@ -1,0 +1,26 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+  - pmorie
+  - saad-ali
+  - thockin
+  - SandeepPissay
+  - divyenpatel
+  - frapposelli
+  - dougm
+emeritus_approvers:
+  - matchstick
+  - abrarshivani
+  - BaluDontu
+  - imkin
+  - sandeeppsunny
+reviewers:
+  - saad-ali
+  - justinsb
+  - jsafrane
+  - jingxu97
+  - msau42
+  - SandeepPissay
+  - divyenpatel
+  - frapposelli
+  - dougm
